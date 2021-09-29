@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58500232095",
+    "project_id": "shopping-firbase",
+    "storage_bucket": "shopping-firbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58500232095:android:5e75f626a64de0585d03aa",
+        "android_client_info": {
+          "package_name": "com.example.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58500232095-nut81k9nca0oef9ut6fu2to7nkn4r1fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH2H8RkGciHL2VJKmh-EoiB5z4MOF8ZoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58500232095-nut81k9nca0oef9ut6fu2to7nkn4r1fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
